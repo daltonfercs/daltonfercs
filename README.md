@@ -10,7 +10,7 @@ Skills: JAVA / KOTLIN / PYTHON / REACT JS
 - 🌱 I’m currently learning ReactJS , VueJS, Flutter 
 - 🤔 I’m looking for help with Development in js technologies  
 - 💬 Ask me about Mobile Development  
-- 📫 How to reach me: daltonfercs@gmail.com 
+- 📫 How to reach me: daltonfercs@gmail.com, https://t.me/Daltonfercs 
 - ⚡ Fun fact: I like swimming, music and technological things  
 
 
